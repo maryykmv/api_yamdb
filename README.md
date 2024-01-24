@@ -130,11 +130,7 @@ GET-запросы
 
 
 ## Авторы проекта
-_[Мария Константинова](https://github.com/wildcat3333)_, python-developer
+_[Мария Константинова](https://github.com/maryykmv)_, python-developer
 _[Александр Скрынник](https://github.com/G1ZgY)_, python-developer
 _[Владимир Михейкин](https://github.com/mvolodka/)_, python-developer
 
-___
-<p>
-    <span>© 2023, Contributors on git </span>
-</p>
